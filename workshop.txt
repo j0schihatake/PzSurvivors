@@ -1,0 +1,9 @@
+version=1
+id=2611403437
+title=PzSurvivor
+description=The mod adds an NPC to the single player game..
+description=.
+description=.
+description=.
+tags=Build 41
+visibility=public
