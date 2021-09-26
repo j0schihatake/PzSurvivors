@@ -14,11 +14,11 @@ Events.LoadGridsquare.Add(PzSurvivorsEventLoadGridsquare);
 
 --OnLoad
 function PzSurvivorsEventOnLoad() end
-Events.OnLoad.Add(PzSurvivorsEventOnLoad);
+--Events.OnLoad.Add(PzSurvivorsEventOnLoad);
 
 --OnCharacterCollide
 function PzSurvivorsEventOnCharacterCollide()end
-Events.OnCharacterCollide.Add(PzSurvivorsEventOnCharacterCollide);
+--Events.OnCharacterCollide.Add(PzSurvivorsEventOnCharacterCollide);
 
 --OnWeaponSwing
 function PzSurvivorsEventOnWeaponSwing() end
